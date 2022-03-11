@@ -2,14 +2,17 @@ package com.turtle;
 
 public class Scoring {
     public static void main(String[] args) {
-        Student jack = new Student();
+        Student jack = new Student("jack");
         jack.name = "jack";
         jack.english = 75;
         jack.math = 85;
-        Student anny = new Student();
-        anny.name = "anny";
-        anny.english = 80;
-        anny.math = 90;
-        System.out.println(jack.name + jack.english + jack.math);
+        Student hank = new Student("hank", 60 ,50);
+        Student s = new Student();
+        GraduateStudent jane = new GraduateStudent("jane",80,90,58);
+        jane.name = "Jane";
+
+        jack.print();
+        hank.print();
+        jane.print();
     }
 }
