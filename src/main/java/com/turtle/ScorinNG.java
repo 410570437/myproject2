@@ -1,6 +1,6 @@
 package com.turtle;
 
-public class ScorinNG {
+public class  ScorinNG {
     public static void main(String[] args) {
             String[] names = {"Mike","Lisa","Jennie","Karen","Benny"};
             int[] englishs = {70,75,80,85,90};
