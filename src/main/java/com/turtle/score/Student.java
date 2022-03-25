@@ -1,4 +1,4 @@
-package com.turtle;
+package com.turtle.score;
 
 public class Student {
         String name;

@@ -1,4 +1,4 @@
-package com.turtle;
+package com.turtle.score;
 
 public class  ScorinNG {
     public static void main(String[] args) {

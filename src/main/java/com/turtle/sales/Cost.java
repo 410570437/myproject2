@@ -1,4 +1,4 @@
-package com.turtle;
+package com.turtle.sales;
 
 public class Cost {
     public static void main(String[] args) {

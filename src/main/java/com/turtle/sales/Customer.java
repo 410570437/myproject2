@@ -1,4 +1,4 @@
-package com.turtle;
+package com.turtle.sales;
 
 public class Customer {
     String name;
